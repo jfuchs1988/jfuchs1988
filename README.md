@@ -3,7 +3,7 @@
 **Senior IT Consultant & Enterprise Architect** mit Schwerpunkt auf  
 **IT-Architektur, Cloud-Transformation, IT-Security und Business Process Management.**
 
-Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
+Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse und AI-Assisted Development bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
 
 Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
 
@@ -26,6 +26,14 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 ![Quarkus](https://img.shields.io/badge/Quarkus-Microservices_Training-4695EB?logo=quarkus&logoColor=white)
 
 ## Tech Stack ⚙️
+
+### AI-Assisted Development
+
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted-Software_Development-6E56CF)
+![Claude Code](https://img.shields.io/badge/Claude-Code-D97757?logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-Coding_Agent-24292F)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2)
+![Agentic Coding](https://img.shields.io/badge/Agentic-Coding-00897B)
 
 ### Architektur & Business Process Management
 
@@ -80,6 +88,8 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 
 - Architekturberatung und Modernisierung komplexer IT-Landschaften
 - Digitalisierung und Automatisierung regulierter Geschäftsprozesse
+- KI-gestützte Softwareentwicklung mit Claude Code und OpenCode
+- Prompt Engineering und agentische Entwicklungsworkflows
 - Entwicklung mit IBM BAW, IBM BPM und IBM ODM
 - Konzeption modularer Prozess-, Microservice- und Schnittstellenarchitekturen
 - Cloud-Transformation mit Microsoft Azure und Microsoft 365
@@ -98,6 +108,12 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 - **Smart Home & Energie:** Integration von Solarerzeugung, Wallbox und Haushaltsverbrauch mit ioBroker, evcc und Shelly sowie Visualisierung über InfluxDB und Grafana
 
 ## Rollen & Verantwortung 🎯
+
+### AI-Assisted Software Developer
+
+- Strukturierung von Anforderungen und Kontext für KI-gestützte Entwicklungsprozesse
+- Agentic Coding mit Claude Code und OpenCode
+- Prüfung, Test und Qualitätssicherung von KI-generierten Änderungen
 
 ### Enterprise & Solution Architect
 
