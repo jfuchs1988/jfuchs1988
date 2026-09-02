@@ -122,4 +122,4 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 ## Kontakt
 
 [![Website](https://img.shields.io/badge/Website-jfuchs.de-24292F?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://www.jfuchs.de)
-[![E-Mail](https://img.shields.io/badge/E--Mail-johannes.fuchs%40jfuchs.de-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:johannes.fuchs@jfuchs.de)
+[![E-Mail](https://img.shields.io/badge/E--Mail-consulting%40jfuchs.de-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:consulting@jfuchs.de)
