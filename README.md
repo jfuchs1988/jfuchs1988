@@ -34,6 +34,9 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 ![OpenCode](https://img.shields.io/badge/OpenCode-Coding_Agent-24292F)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2)
 ![Agentic Coding](https://img.shields.io/badge/Agentic-Coding-00897B)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT_Models-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic-Claude_Models-D97757?logo=anthropic&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-Models-FA520F?logo=mistralai&logoColor=white)
 
 ### Architektur & Business Process Management
 
@@ -90,6 +93,7 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 - Digitalisierung und Automatisierung regulierter Geschäftsprozesse
 - KI-gestützte Softwareentwicklung mit Claude Code und OpenCode
 - Prompt Engineering und agentische Entwicklungsworkflows
+- Modellauswahl und Entwicklung mit GPT-, Claude- und Mistral-Modellen
 - Entwicklung mit IBM BAW, IBM BPM und IBM ODM
 - Konzeption modularer Prozess-, Microservice- und Schnittstellenarchitekturen
 - Cloud-Transformation mit Microsoft Azure und Microsoft 365
