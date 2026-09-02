@@ -9,6 +9,10 @@ Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energ
 
 Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig modernisieren.**
 
+> „Jeder sagte, es funktioniert nicht. Dann kam jemand, der das nicht wusste, und hat es einfach gemacht.“
+
+*Mein Leitsatz*
+
 ## Zertifizierungen 🎓
 
 [![Professional Scrum Master I](https://img.shields.io/badge/Professional_Scrum_Master_I-Scrum.org-0079B9)](https://scrum.org/certificates/1326001)
