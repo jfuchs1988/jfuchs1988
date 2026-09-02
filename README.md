@@ -5,6 +5,8 @@
 
 Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
 
+Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
+
 Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig modernisieren.**
 
 ## Zertifizierungen 🎓
@@ -63,6 +65,17 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-Agile_Delivery-0052CC?logo=jira&logoColor=white)
 
+### Home Automation & Energiemanagement
+
+![ioBroker](https://img.shields.io/badge/ioBroker-Automation-3399CC?logo=iobroker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-Time_Series-22ADF6?logo=influxdb&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-Home_Lab-E57000?logo=proxmox&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Edge_Hosting-A22846?logo=raspberrypi&logoColor=white)
+![HomeMatic IP](https://img.shields.io/badge/HomeMatic_IP-Smart_Home-005CA9)
+![evcc](https://img.shields.io/badge/evcc-Solar_Charging-41B883)
+![Shelly](https://img.shields.io/badge/Shelly-Energy_Metering-4495D1)
+
 ## Was ich mache 🚀
 
 - Architekturberatung und Modernisierung komplexer IT-Landschaften
@@ -71,6 +84,8 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 - Konzeption modularer Prozess-, Microservice- und Schnittstellenarchitekturen
 - Cloud-Transformation mit Microsoft Azure und Microsoft 365
 - Zero-Trust-, Identity-, Endpoint- und Cloud-Security mit Entra ID, Intune und Defender
+- Home Automation und Energiemonitoring mit ioBroker, Grafana und InfluxDB
+- Optimierung von PV-Eigenverbrauch, Wallbox-Ladung und Haushaltsstrom mit evcc und Shelly
 - Technische Anforderungsanalyse, Qualitätssicherung und agile Delivery
 
 ## Projekte & Highlights 💡
@@ -80,6 +95,7 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 - **Luftfahrt & E-Commerce:** Product Ownership, Business Analysis, Testing und Application Performance Monitoring für Online Check-in und Manage My Booking bei Condor / Thomas Cook
 - **Cloud & Security:** Aufbau, Migration und Härtung von Microsoft-365- und Azure-Umgebungen inklusive Entra ID, Intune, Defender und Conditional Access
 - **IT-Transformation:** Einführung von Docker, Kubernetes und automatisierten CI/CD-Prozessen sowie Unterstützung einer ISO-27001-Zertifizierung
+- **Smart Home & Energie:** Integration von Solarerzeugung, Wallbox und Haushaltsverbrauch mit ioBroker, evcc und Shelly sowie Visualisierung über InfluxDB und Grafana
 
 ## Rollen & Verantwortung 🎯
 
