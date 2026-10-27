@@ -1,6 +1,6 @@
 # Hi, ich bin Johannes 👋
 
-**Selbstständiger Senior IT Consultant & Enterprise Architect seit Mai 2025** mit Schwerpunkt auf<br>
+**Senior IT Consultant & Enterprise Architect** mit Schwerpunkt auf  
 **IT-Architektur, Cloud-Transformation, IT-Security und Business Process Management.**
 
 Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse und AI-Assisted Development bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
