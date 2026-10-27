@@ -1,9 +1,8 @@
 # Hi, ich bin Johannes 👋
 
-**Senior IT Consultant & Enterprise Architect | KI-Einführung & agentische Entwicklung** mit Schwerpunkt auf<br>
-**IT-Architektur, Cloud-Transformation, IT-Security und Business Process Management.**
+**Senior IT Consultant & Enterprise Architect**
 
-Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Modernisierung gewachsener Systemlandschaften und der Automatisierung regulierter Geschäftsprozesse bis zur durchgängigen Einführung von KI – von Bedarfsermittlung und Modellauswahl über Architektur, Pilotierung und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung.
+Ich begleite die Modernisierung komplexer IT-Landschaften und Geschäftsprozesse – von Architektur und Cloud bis zur verantwortungsvollen Einführung von KI.
 
 Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
 
