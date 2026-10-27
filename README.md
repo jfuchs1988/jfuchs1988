@@ -2,7 +2,9 @@
 
 **Senior IT Consultant | KI-Einführung im hochregulierten Behördenumfeld**
 
-Ich begleite KI-Vorhaben in Behörden – von Bedarfsermittlung und Modellauswahl über Architektur und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung.
+Ich begleite KI-Vorhaben in Behörden – von Bedarfsermittlung und Modellauswahl über Architektur und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung. Außerdem entwickle ich Software mit agentischen KI-Workflows, etwa mit Claude Code und OpenCode.
+
+Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
 
 Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
 
