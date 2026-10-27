@@ -1,6 +1,6 @@
 # Hi, ich bin Johannes 👋
 
-**Senior IT Consultant & Enterprise Architect** mit Schwerpunkt auf  
+**Selbstständiger Senior IT Consultant & Enterprise Architect seit Mai 2025** mit Schwerpunkt auf<br>
 **IT-Architektur, Cloud-Transformation, IT-Security und Business Process Management.**
 
 Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse und AI-Assisted Development bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
@@ -24,6 +24,9 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 
 ![AI Fluency Framework and Foundations](https://img.shields.io/badge/AI_Fluency-Framework_%26_Foundations-D97757?logo=anthropic&logoColor=white)
 ![AI Fluency for Small Businesses](https://img.shields.io/badge/AI_Fluency-for_Small_Businesses-6B7F4E?logo=anthropic&logoColor=white)
+![AI Engineer Core Track](https://img.shields.io/badge/AI_Engineer_Core_Track-LLM%2C_RAG%2C_QLoRA_%26_Agents_33.5_h-6E56CF)
+![LLM Engineering Masterclass](https://img.shields.io/badge/LLM_Engineering_Masterclass-RAG_%26_AI_Agents_24_h-6E56CF)
+![KI-Komplett Masterclass](https://img.shields.io/badge/KI--Komplett_Masterclass-37_h-6E56CF)
 ![Java Masterclass](https://img.shields.io/badge/Java_Masterclass-135.5_Stunden-ED8B00?logo=openjdk&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Complete_Guide-2088FF?logo=githubactions&logoColor=white)
 ![Kubernetes Mastery](https://img.shields.io/badge/Kubernetes-Mastery-326CE5?logo=kubernetes&logoColor=white)
