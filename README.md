@@ -1,8 +1,8 @@
 # Hi, ich bin Johannes 👋
 
-**Senior IT Consultant & Enterprise Architect**
+**Senior IT Consultant | KI-Einführung im hochregulierten Behördenumfeld**
 
-Ich begleite die Modernisierung komplexer IT-Landschaften und Geschäftsprozesse – von Architektur und Cloud bis zur verantwortungsvollen Einführung von KI.
+Ich begleite KI-Vorhaben in Behörden – von Bedarfsermittlung und Modellauswahl über Architektur und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung.
 
 Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
 
