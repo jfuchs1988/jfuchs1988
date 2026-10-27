@@ -1,6 +1,6 @@
 # Hi, ich bin Johannes 👋
 
-**Senior IT Consultant & KI-Einführung im hochregulierten Behördenumfeld**
+**Senior IT Consultant mit Fokus auf KI im hochregulierten Behördenumfeld**
 
 Ich begleite KI-Vorhaben in Behörden – von Bedarfsermittlung und Modellauswahl über Architektur und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung. Außerdem entwickle ich Software mit agentischen KI-Workflows, etwa mit Claude Code und OpenCode.
 
