@@ -44,6 +44,7 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI-GPT_Models-412991?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic-Claude_Models-D97757?logo=anthropic&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-Models-FA520F?logo=mistralai&logoColor=white)
+![Qwen Models](https://img.shields.io/badge/Qwen-Local_Models-7C3AED)
 
 ### Architektur & Business Process Management
 
