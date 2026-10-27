@@ -1,9 +1,9 @@
 # Hi, ich bin Johannes 👋
 
-**Senior IT Consultant & Enterprise Architect** mit Schwerpunkt auf  
+**Senior IT Consultant & Enterprise Architect | KI-Einführung & agentische Entwicklung** mit Schwerpunkt auf<br>
 **IT-Architektur, Cloud-Transformation, IT-Security und Business Process Management.**
 
-Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Analyse und Modernisierung gewachsener Systemlandschaften über die Automatisierung regulierter Geschäftsprozesse und AI-Assisted Development bis zum sicheren Betrieb moderner Microsoft-Cloud-Umgebungen.
+Ich verbinde technische Architektur mit fundiertem Prozesswissen: von der Modernisierung gewachsener Systemlandschaften und der Automatisierung regulierter Geschäftsprozesse bis zur durchgängigen Einführung von KI – von Bedarfsermittlung und Modellauswahl über Architektur, Pilotierung und Integration bis zu Qualitätssicherung, Leitplanken, Rollout und Schulung.
 
 Darüber hinaus entwickle ich Home-Automation-Lösungen für transparentes Energiemonitoring und die optimierte Nutzung von Solarstrom, Wallbox und Haushaltsverbrauch.
 
@@ -98,9 +98,11 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 
 - Architekturberatung und Modernisierung komplexer IT-Landschaften
 - Digitalisierung und Automatisierung regulierter Geschäftsprozesse
-- KI-gestützte Softwareentwicklung mit Claude Code und OpenCode
-- Prompt Engineering und agentische Entwicklungsworkflows
-- Modellauswahl und Entwicklung mit GPT-, Claude- und Mistral-Modellen
+- Begleitung von KI-Einführungen – von Bedarfsermittlung und Modellauswahl über Pilotierung bis Rollout und Schulung
+- Konzeption und Integration von KI-Systemen: Architektur, Schnittstellen und technische Dokumentation
+- Agentische Entwicklungsworkflows mit Claude Code und OpenCode, abgesichert durch Tests, Reviews und klare Leitplanken
+- KI-fähige Prozessautomatisierung mit BPM, RPA und Intelligent Automation
+- Auswahl und Integration von GPT-, Claude-, Mistral- und lokalen Modellen wie Qwen3.8
 - Entwicklung mit IBM BAW, IBM BPM und IBM ODM
 - Konzeption modularer Prozess-, Microservice- und Schnittstellenarchitekturen
 - Cloud-Transformation mit Microsoft Azure und Microsoft 365
@@ -111,7 +113,8 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 
 ## Projekte & Highlights 💡
 
-- **Regulatorisches Meldewesen:** Digitalisierung, Modernisierung und Automatisierung von Meldeverfahren bei der BaFin mit IBM BAW und IBM ODM
+- **KI-Einführung bei einer Behörde im hochregulierten Umfeld mit hohen Sicherheitsanforderungen:** Begleitung von Bedarfsermittlung und Modellauswahl – einschließlich lokaler Modelle wie Qwen3.8 – über Pilotierung und Systemintegration bis zu Tests, Reviews, Leitplanken, Softwarebereitstellung und -verteilung sowie Schulung
+- **Regulatorisches Meldewesen:** Digitalisierung, Modernisierung und Automatisierung von Meldeverfahren mit IBM BAW und IBM ODM
 - **Finanzdienstleistungen:** Architektur und Entwicklung eines modularen BPM-Prozesses zur Digitalisierung des Mahnwesens bei der Commerzbank
 - **Luftfahrt & E-Commerce:** Product Ownership, Business Analysis, Testing und Application Performance Monitoring für Online Check-in und Manage My Booking bei Condor / Thomas Cook
 - **Cloud & Security:** Aufbau, Migration und Härtung von Microsoft-365- und Azure-Umgebungen inklusive Entra ID, Intune, Defender und Conditional Access
@@ -120,11 +123,13 @@ Mein Fokus: **Komplexität reduzieren. Prozesse automatisieren. IT nachhaltig mo
 
 ## Rollen & Verantwortung 🎯
 
-### AI-Assisted Software Developer
+### KI-Einführung & agentische Entwicklung
 
-- Strukturierung von Anforderungen und Kontext für KI-gestützte Entwicklungsprozesse
-- Agentic Coding mit Claude Code und OpenCode
-- Prüfung, Test und Qualitätssicherung von KI-generierten Änderungen
+- Begleitung von KI-Vorhaben von der Bedarfsermittlung und Auswahl über Pilotierung bis Einführung, kontrollierter Softwareverteilung und Schulung
+- Konzeption von KI-Systemen mit passender Architektur, Schnittstellen, Systemintegration und technischer Dokumentation
+- Einführung agentischer Entwicklungsworkflows mit Claude Code und OpenCode; Absicherung durch Tests, Reviews, Leitplanken und klare Regeln
+- KI-fähige Gestaltung und Integration von BPM-, RPA- und Intelligent-Automation-Prozessen
+- Auswahl und Einbindung lokaler Modelle, darunter Qwen3.8
 
 ### Enterprise & Solution Architect
 
